@@ -91,7 +91,7 @@ const CreateProduct = () => {
     };
 
     return (
-        <div className="w-[90%] max-w-[500px] bg-white shadow h-auto rounded-[4px] p-4 mx-auto">
+        <div className="w-[90%] max-w-[500px] bg-black shadow h-auto rounded-[4px] p-4 mx-auto">
             <h5 className="text-[24px] font-semibold text-center">Create Product</h5>
             <form onSubmit={handleSubmit}>
                 <div className="mt-4">
