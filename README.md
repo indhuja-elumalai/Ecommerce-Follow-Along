@@ -197,3 +197,23 @@ This milestone sets the stage for adding products to the database, which will la
 
 ---
 
+## Milestone 10: Product Schema & API Endpoint
+
+### Key Achievements:
+- **Product Schema Creation**: Created Mongoose schema for product data (name, description, price, image URL).
+- **POST Endpoint**: Developed POST /api/products endpoint to store product data in MongoDB.
+- **Data Validation**: Added validation to ensure correct and complete product data.
+- **Error Handling**: Implemented error handling for invalid or incomplete data submissions.
+
+---
+
+## Milestone 11: Display Products on Homepage
+
+### Key Achievements:
+- **GET Endpoint**: Created GET /api/products endpoint to fetch product data from MongoDB.
+- **Frontend Integration**: Integrated product data with React frontend using hooks for dynamic display in product cards.
+- **Loading State**: Added loading state to indicate when product data is being fetched.
+- **Error Handling**: Implemented error handling for failed data retrieval or API errors.
+
+---
+
