@@ -239,3 +239,14 @@ In this milestone, we added functionality for users to edit their uploaded produ
 - **Backend Update**: Created an endpoint to update product details in MongoDB.
 
 ---
+
+**Milestone 14: Deleting User Products**
+
+In this milestone, we added the functionality to delete products.
+
+### Key Achievements:
+- **Delete Button**: Added a delete button to the product card.
+- **Backend Endpoint**: Created an endpoint to delete products from MongoDB using the product ID.
+- **Frontend Integration**: Enabled the frontend to send the product ID to the backend for deletion when the delete button is clicked.
+
+---
