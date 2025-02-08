@@ -217,7 +217,7 @@ This milestone sets the stage for adding products to the database, which will la
 
 ---
 
-**Milestone 12: Displaying User-Specific Products**
+## Milestone 12: Displaying User-Specific Products
 
 In this milestone, we focused on creating an endpoint to fetch and display products specific to a user based on their email, and rendering that data dynamically on the frontend.
 
@@ -229,7 +229,7 @@ In this milestone, we focused on creating an endpoint to fetch and display produ
 
 ---
 
-**Milestone 13: Editing User Products**
+## Milestone 13: Editing User Products
 
 In this milestone, we added functionality for users to edit their uploaded products. 
 
@@ -240,7 +240,7 @@ In this milestone, we added functionality for users to edit their uploaded produ
 
 ---
 
-**Milestone 14: Deleting User Products**
+## Milestone 14: Deleting User Products
 
 In this milestone, we added the functionality to delete products.
 
@@ -248,5 +248,16 @@ In this milestone, we added the functionality to delete products.
 - **Delete Button**: Added a delete button to the product card.
 - **Backend Endpoint**: Created an endpoint to delete products from MongoDB using the product ID.
 - **Frontend Integration**: Enabled the frontend to send the product ID to the backend for deletion when the delete button is clicked.
+
+---
+
+## Milestone 15: Creating and Integrating a Navbar
+
+In this milestone, we focused on creating and integrating a reusable Navbar component to enhance the navigation experience in our application.
+
+### Key Achievements:
+- **Navbar Component**: Created a Navbar component with links to all pages, including Home, My Products, Add Product, and Cart.
+- **Responsive Design**: Made the Navbar responsive, ensuring it looks good on all screen sizes.
+- **Frontend Integration**: Integrated the Navbar component into all pages to enable smooth and easy navigation between different sections of the app.
 
 ---
