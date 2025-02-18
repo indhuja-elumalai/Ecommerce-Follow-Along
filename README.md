@@ -281,3 +281,15 @@ In this milestone, we focused on building the backend functionality to handle th
 - **Database Integration**: Ensured that the cart information is properly stored in the database, linking the products with the user's account.
 
 ---
+
+## Milestone 18: Creating Backend Endpoint for Cart Page
+
+In this milestone, we focused on building the backend logic to fetch and display all the products inside the user's cart on the cart page.
+
+### Key Achievements:
+- **Backend Endpoint for Cart Page**: Created a new backend API endpoint that receives requests from the cart page.
+- **Fetch Cart Products**: Developed the endpoint to retrieve all the products in the user's cart based on their email.
+- **Database Integration**: Integrated the backend with the database to fetch cart details linked to the specific user.
+
+---
+
