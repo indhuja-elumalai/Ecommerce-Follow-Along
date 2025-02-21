@@ -293,3 +293,13 @@ In this milestone, we focused on building the backend logic to fetch and display
 
 ---
 
+## Milestone 19: Cart Page UI with Quantity Adjustments
+
+In this milestone, we focused on building the frontend UI for the cart page and adding functionality to adjust product quantities.
+
+### Key Achievements:
+- **Cart Page UI**: Created a frontend cart page that displays all products with their name, image, price, and quantity.
+- **Quantity Adjustment**: Added buttons to increase and decrease the quantity of each product in the cart.
+- **Backend Endpoint**: Developed an API endpoint to update the quantity of products in the cart.
+
+---
