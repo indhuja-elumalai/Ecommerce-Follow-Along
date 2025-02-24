@@ -303,3 +303,15 @@ In this milestone, we focused on building the frontend UI for the cart page and 
 - **Backend Endpoint**: Developed an API endpoint to update the quantity of products in the cart.
 
 ---
+
+## Milestone 20: Profile Page UI with User Data Display
+
+In this milestone, we focused on building the frontend UI for the user profile page and writing a backend endpoint to retrieve and display user data.
+
+### Key Achievements:
+- **Profile Page UI**: Designed a frontend profile page that displays the user's profile photo, name, email, and address.
+- **User Data Display**: The profile page includes sections for the user's personal info (photo, name, email) and a separate section for addresses.
+- **Address Management**: Added a button to allow users to add a new address. If no address is found, a "No address found" message is displayed.
+- **Backend Endpoint**: Developed an API endpoint to send user data, including the profile photo, name, email, and address information.
+
+---
